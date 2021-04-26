@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario De Los Santos</h1>
 <h3 align="center">A Software Engineer and electronic musician.</h3>
 
-- 🔭 I’m currently working on [Motif](coming soon...)
+- 🔭 I’m currently working on [Motifs](coming soon...)
 
 - 🌱 I’m currently learning **NODE,MONGO DB, EXPRESS and REACT**
 
