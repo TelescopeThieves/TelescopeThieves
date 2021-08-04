@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Motifs](coming soon...)
 
-- 🌱 I’m currently learning **NODE,MONGO DB, EXPRESS and REACT**
+- 🌱 I’m currently Working with  **NODE,MONGO DB, EXPRESS and REACT**
 
 - 👨‍💻 All of my projects are available at [https://telescopethieves.com/](https://telescopethieves.com/)
 
