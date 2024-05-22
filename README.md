@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario De Los Santos</h1>
 <h3 align="center">A Software Engineer and electronic musician.</h3>
 
-- 🔭 I’m currently at [Flare Health](https://github.com/flarehealth)
+- 💻 I’m currently at [Flare Health](https://github.com/flarehealth)
 
 - 🌱 I’m currently Working with  **NODE,MONGO DB, EXPRESS and REACT**
 
